@@ -13,4 +13,4 @@ TB.v.1 ရွေးပါ
 - Bot token, Owner ID ယူနည်း [ဒီမှာကြည့်ပါ။](https://t.me/drivetalkchannel/161)
 - ပြီးလျှင် အောက်ဆုံးနားက create web service အပြာရောင် ကို နှိပ်ပြီး ခဏစောင့်ပါ
 - terminal box တက်လာပြီး install ပါမည်။ **live** ပြပြီး Bot Start စာပေါ်လာလျှင် စသုံးလို့ရပါပြီ။
-- bot တက်လျှင် bot ထဲမှ /bsetting နှိပ်ပြီး config var ရွေး edit ရွေးပြီး လိုတာပြင်ပါ။
+- bot တက်လျှင် bot ထဲမှ /bsetting နှိပ်ပြီး config var ရွေး edit ရွေးပြီး လိုတာပြင်ပါ။ [/bsettingသုံးနည်း](https://t.me/drivetalkchannel/168)
